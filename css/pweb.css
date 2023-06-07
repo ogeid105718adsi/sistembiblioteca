@@ -1,0 +1,65 @@
+header{
+    background-color: rgb(77, 76, 76) ;
+    width:auto;
+    height: 100px;
+    text-decoration: none;
+    color:white ;
+    font-family: 'Righteous', cursive;
+    justify-content: center;
+    gap: 10px;
+    padding-left: 550px;
+    padding-top: 20px;
+    font-size: 70px;
+}
+
+.formulario{
+   width: 400px;
+    background-color: black ;
+    margin-left: 700px;
+    margin-top: 300px;
+    color: white;
+}
+.t_crear{
+    color: white ;
+    margin-top: 200px;
+    margin-left: 750px;
+    font-size: 15px;
+}
+.caji{
+    color: white;
+   
+   font-size: 30px;
+   margin-top: 36px ;
+   margin-left: 70px;
+}
+
+.botonguardar{
+    background-color: white ;
+    border-radius: 15px;
+    padding: 5px;
+    width: 50px;
+    margin-left: 30%;
+    margin-left: 30px;
+}
+ .botonguardar a {
+    text-decoration: none;
+    color:black ;
+}
+.contenguar{
+    width: 50px;
+    margin-top:20px ;
+    margin-left: 50px;
+}
+.cajamadre_c{
+    width: 3000px;
+    height: 1000px ;
+}
+.usuario{
+    width: 80px;
+    color: white ;
+    margin-top: -400px;
+    margin-left: 1500px;
+ 
+}
+
+

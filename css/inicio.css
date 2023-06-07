@@ -1,0 +1,43 @@
+header{
+    background-color: rgb(77, 76, 76) ;
+    width: auto;
+    height: 80px;
+    text-decoration: none;
+    color:white ;
+    font-family: 'Righteous', cursive;
+    justify-content: center;
+    gap: 10px;
+    padding-left: 550px;
+    padding-top: 20px;  
+    font-size: 70px;
+}
+.tablita{
+    margin-top:400px ;
+    margin-left: 780px;
+    width: 200px;
+    color:white;
+
+}
+.botoninicio,.boton_inicio
+{
+    background-color:white;
+    border-radius: 15px;
+    padding: 5px;
+    width: 50px;
+    margin-left: 30%;
+    
+}
+.botoninicio,.boton_inicio a
+{
+    text-decoration: none;
+    color: rgb(114, 21, 21) ;
+}
+body{
+    background-image: url(../img/oscura\ .jpg);
+  background-repeat: no-repeat;
+}
+a .cajamadre{
+   text-decoration: none;
+}
+
+

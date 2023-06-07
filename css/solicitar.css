@@ -1,0 +1,51 @@
+header{
+    background-color: rgb(77, 76, 76) ;
+    width: auto;
+    height: 80px;
+    text-decoration: none;
+    color:white ;
+    font-family: 'Righteous', cursive;
+    justify-content: center;
+    gap: 10px;
+    padding-left: 550px;
+    padding-top: 20px;  
+    font-size: 70px;
+}
+.cajagrande{
+    width: 3000px;
+    height:1000px;
+    margin-top: -10px;
+   
+  
+}
+.soli_lb{
+    color: white ;
+    font-size: 30px;
+    margin-top: 3%;
+    margin-left: 12%;
+}
+.multi_opc{
+    color: white;
+    font-size: 20px;
+    margin-top: 7%;
+    margin-left: 12%;
+}
+.tabla_soli{
+    color: white;
+    border: 5px solid white ;
+    margin-top: 6%;
+    margin-left: 12%;
+    width: 1200px;
+    
+}
+a
+{
+    color: white;
+}
+.usuario_t{
+    width: 80px;
+    color: white ;
+    margin-top: -1000px;
+    margin-left: 1660px;
+    font-size: 30px;
+}

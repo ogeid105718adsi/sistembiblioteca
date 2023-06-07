@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/entrega.css">
+    <link rel="stylesheet" href="../css/menu.css">
+    <link rel="stylesheet" href="../css/inicio.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+ 
+</head>
+<body>
+    <header>
+        welcome to the Cyber Library
+    </header>
+    <nav id='menu'>
+        <input type='checkbox' id='responsive-menu' onclick='updatemenu()'><label></label>
+        <ul>
+          <li><a href='../index.html'>Inicio</a></li>
+          <li><a href='pagina/registr.html'>Registrase</a></li>
+          <li><a href='index.html'>Ingresar</a></li>
+          <li><a class='dropdown-arrow' href='http://'>Servicios </a>
+            <ul class='sub-menus'>
+              <li><a href='../pagina/solicitar1.html'>Solicitar </a></li>
+              <li><a href='../pagina/crear1.html'>crear</a></li>
+              <li><a href='../pagina/entrega1.html'>Entrega </a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <div class="cajamadre_e"> 
+        <div class="cajaentrega">
+            <Fieldset>
+                <legend>Listado de Libros</legend>
+                <form action="">
+                    <table>
+                       <tr>
+                        <td><label for="">Titulo</label></td>
+                        <td><label for="">ISBN</label></td>
+                        <td><label for="">Disponible para</label></td>
+                        <td></td>
+                       </tr>
+                       <tr>
+                        <td><label for=""> Guía práctica de bases de datos  </label></td>
+                        <td><label for=""> 6-789-23-56-7 </label></td>
+                        <td><label for=""> sala</label></td>
+                        <td><label for=""><a href="">Entregar</a></label></td>
+                       </tr>
+                       <tr>
+                        <td><label for="">Bases de datos NoSQL</label></td>
+                        <td><label for="">2-445-23-5-223</label></td>
+                        <td><label for="">sala</label></td>
+                        <td><label for=""><a href="">Entregar</a></label></td>
+                       </tr>
+                    </table>
+                </form>
+            </Fieldset>
+        </div>
+        <div class="NoDocum">
+            <form action="">
+                <table >
+                    <tr>
+                        <td>
+                            <label for="">Número de documento del usuario </label>
+                        </td>
+                        <td>
+                            <input type="text" name="" id="">
+                        </td>
+                       
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div class="entre">Entrega de Libros </div>
+        <div class="usuario_">
+            <form action="">
+                <table>
+                    <td>
+                        <label for="">Usuario</label>
+                    </td>
+                    <td>
+                     <select name="" id="">
+                        <option value="">Diego Castro</option>
+                        <option value=""> <a href="../index.html">Salir </a></option>
+                     </select>
+                    </td>
+                   
+                </table>
+            </form>
+        </div>
+        <div class="u_activo"><a href="">Usuario Activo</a></div>
+      </div>
+</body>
+</html>

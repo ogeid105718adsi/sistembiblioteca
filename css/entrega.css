@@ -1,0 +1,54 @@
+header{
+    background-color: rgb(77, 76, 76) ;
+    width: auto;
+    height: 80px;
+    text-decoration: none;
+    color:white ;
+    font-family: 'Righteous', cursive;
+    justify-content: center;
+    gap: 10px;
+    padding-left: 550px;
+    padding-top: 20px;  
+    font-size: 70px;
+}
+.entre{
+    color: white;
+    font-size: 40px;
+   margin-top: -10%;
+   margin-left: 5%;
+}
+.cajamadre_e{
+ 
+    width: 3000px;
+    height:1000px;
+    margin-top: -100px;
+  
+}
+.cajaentrega{
+    margin-left: 500px;
+    color: black;
+    background-color: white;
+    width: 1000px;
+    font-size: 20px;
+    margin-top: 700px;
+    
+}
+.NoDocum{
+    color: white;
+    margin-top: -10%;
+    margin-left: 10%;
+    font-size: 30px;
+}
+.usuario_{
+    width: 80px;
+    color: white ;
+    margin-top: -5%;
+    margin-left: 70%;
+    font-size: 30px;
+}
+.u_activo{
+    color: white;
+    font-size: 20px;
+    margin-top: 14%;
+    margin-left: 30%;
+}

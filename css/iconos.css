@@ -1,0 +1,40 @@
+.contenido{
+    height: 500px;
+    margin-top: -20%;
+    
+}
+.fb{
+    margin-bottom: 10px;
+}
+.tw{
+   
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.ig{
+    background-color: rgb(162, 77, 91);
+    margin-top: 10px;
+    
+}
+.fb,.tw,.ig{
+    height: 20px;
+    width: 30px;
+    border-radius: 0 20px 20px 0;
+}
+.fb:hover, .tw:hover, .ig:hover{
+    width: 70px;
+    transition: linear 2s;
+   
+}
+.redes{
+    padding-top: 100px;
+    position: fixed;
+    left: 10px;
+  
+}
+a{
+    text-decoration: none;
+    color:white ;
+    font-family: 'Shadows Into Light', cursive;
+
+}
